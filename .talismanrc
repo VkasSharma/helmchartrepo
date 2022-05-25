@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: index.yaml
+  checksum: 8123689cd6e602e83164ad19d31ebd414d3dc8cbccf8bf4d368d17763474c8e9
+- filename: mysubchart/values.yaml
+  checksum: ff252aa333d82b6cb02c42ee2557d8d188b1001c1771b1f792afbc5c54738a26
+version: "1.0"
